@@ -1,2 +1,2 @@
 # Whatsapp-bot
-ربات پاسخ
+Initial effort to democratize access to health services in underserved areas
